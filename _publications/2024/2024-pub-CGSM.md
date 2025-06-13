@@ -5,7 +5,7 @@ selected:       false
 pub:            "2024 IEEE International Conference on Robotics and Biomimetics (ROBIO)"
 abstract: >-
   Passive exoskeleton design utilizing a compact gear-spring mechanism (CGSM) for lower-limb rehabilitation.
-cover:          /assets/images/covers/CGSM.png
+cover:          /assets/images/covers/SII.png
 authors:
   - quangppm
   - "Hung Quang Nguyen"

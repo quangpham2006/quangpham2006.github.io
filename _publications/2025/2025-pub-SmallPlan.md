@@ -16,4 +16,5 @@ authors:
 
 links:
   Paper: https://arxiv.org/pdf/2505.00831
+  Code: https://github.com/quangpham2006/SmallPlan
 ---
