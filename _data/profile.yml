@@ -25,7 +25,7 @@ short_bio: >-
     I am a MSc student in Robotics at <a href="https://mbzuai.ac.ae" target="_blank">MBZUAI</a>, advised by <a href="https://mbzuai.ac.ae/study/faculty/dezhen-song/" target="_blank">Dezhen Song</a>. I'm interested in developing AI solutions for robotics, particularly leveraging small language models and knowledge distillation for path planning, scene understanding through graph neural networks, tactile sensing for manipulation tasks, and vision-based localization systems for resource-constrained robotic applications.
   </p>
   <p>
-   Before joining MBZUAI, I earned my BSc in Mechanical Engineering from <a href="https://vinuni.edu.vn" target="_blank">VinUni</a>, where I founded the university’s first robotics lab and secured $35,000 in funding to advance modern robotics research in collaboration with professors worldwide. I also had the opportunity to study abroad as an exchange student at <a href="https://www.technion.ac.il/en/" target="_blank">Technion</a> in Israel.
+   Before joining MBZUAI, I earned my BSc in Mechanical Engineering from <a href="https://vinuni.edu.vn" target="_blank">VinUni</a>, where I founded the university's first robotics lab and secured $35,000 in funding to advance modern robotics research in collaboration with professors worldwide. I also had the opportunity to study abroad as an exchange student at <a href="https://www.technion.ac.il/en/" target="_blank">Technion</a> in Israel.
   </p>
 portrait_url: /assets/images/photos/Portrait.png
 #portrait_caption: >-
@@ -58,3 +58,40 @@ education:
 #    logo: /assets/images/badges/anttizen.jpg
 #    position: Research Intern
 #    date: Jun. 2020 - Sep. 2020 
+
+rejected:
+  - name: University of Pennsylvania
+    logo: /assets/images/badges/Upenn_logo.png
+    date: 2023
+  - name: Cornell University
+    logo: /assets/images/badges/cornell_logo.png
+    date: 2023
+  - name: NeurIPS
+    logo: /assets/images/badges/logo_neurips.png
+    date: 2024
+  - name: CVPR 
+    logo: /assets/images/badges/CVPR_logo.jpg
+    date: 2025
+  - name: IROS
+    logo: /assets/images/badges/iros25_logo.png
+    date: 2025
+
+
+accepted:
+  - name: MBZUAI
+    logo: /assets/images/badges/mbzuai_logo.png
+    date: 2024
+  - name: VinUniversity
+    logo: /assets/images/badges/VinUni_logo.png
+    date: 2020
+  - name: Technion
+    logo: /assets/images/badges/Technion_logo.png
+    date: 2023
+  - name: University of Illinois at Urbana-Champaign
+    logo: /assets/images/badges/UIUC_logo.png
+    date: 2024
+  - name: University of Technology Sydney
+    logo: /assets/images/badges/UTS_logo.png
+    date: 2023
+  
+  
