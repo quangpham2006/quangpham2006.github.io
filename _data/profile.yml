@@ -59,39 +59,39 @@ education:
 #    position: Research Intern
 #    date: Jun. 2020 - Sep. 2020 
 
-rejected:
-  - name: University of Pennsylvania
-    logo: /assets/images/badges/Upenn_logo.png
-    date: 2023
-  - name: Cornell University
-    logo: /assets/images/badges/cornell_logo.png
-    date: 2023
-  - name: NeurIPS
-    logo: /assets/images/badges/logo_neurips.png
-    date: 2024
-  - name: CVPR 
-    logo: /assets/images/badges/CVPR_logo.jpg
-    date: 2025
-  - name: IROS
-    logo: /assets/images/badges/iros25_logo.png
-    date: 2025
+# rejected:
+#   - name: University of Pennsylvania
+#     logo: /assets/images/badges/Upenn_logo.png
+#     date: 2023
+#   - name: Cornell University
+#     logo: /assets/images/badges/cornell_logo.png
+#     date: 2023
+#   - name: NeurIPS
+#     logo: /assets/images/badges/logo_neurips.png
+#     date: 2024
+#   - name: CVPR 
+#     logo: /assets/images/badges/CVPR_logo.jpg
+#     date: 2025
+#   - name: IROS
+#     logo: /assets/images/badges/iros25_logo.png
+#     date: 2025
 
 
-accepted:
-  - name: MBZUAI
-    logo: /assets/images/badges/mbzuai_logo.png
-    date: 2024
-  - name: VinUniversity
-    logo: /assets/images/badges/VinUni_logo.png
-    date: 2020
-  - name: Technion
-    logo: /assets/images/badges/Technion_logo.png
-    date: 2023
-  - name: University of Illinois at Urbana-Champaign
-    logo: /assets/images/badges/UIUC_logo.png
-    date: 2024
-  - name: University of Technology Sydney
-    logo: /assets/images/badges/UTS_logo.png
-    date: 2023
+# accepted:
+#   - name: MBZUAI
+#     logo: /assets/images/badges/mbzuai_logo.png
+#     date: 2024
+#   - name: VinUniversity
+#     logo: /assets/images/badges/VinUni_logo.png
+#     date: 2020
+#   - name: Technion
+#     logo: /assets/images/badges/Technion_logo.png
+#     date: 2023
+#   - name: University of Illinois at Urbana-Champaign
+#     logo: /assets/images/badges/UIUC_logo.png
+#     date: 2024
+#   - name: University of Technology Sydney
+#     logo: /assets/images/badges/UTS_logo.png
+#     date: 2023
   
   
