@@ -3,7 +3,7 @@ title:          "TESGNN: Temporal equivariant scene graph neural networks for ef
 date:           2024-11-15 00:01:00 +0800
 selected:       true
 # pub:            "European Conference on Computer Vision (ECCV)"
-pub_pre:        "Submitted to 2025 IROS"
+pub_pre:        "Transactions on Machine Learning (TMLR)"
 abstract: >-
   An improve of ESGNN with temporal layer making the generated graph can evolute over times.
 cover:          /assets/images/covers/TESGNN.jpg
@@ -16,6 +16,6 @@ authors:
   - hyson
 links:
   # Project Page: 
-  Paper: https://arxiv.org/pdf/2411.10509
+  Paper: https://openreview.net/forum?id=boM0kkYPzE
   Code: https://github.com/HySonLab/TESGraph
 ---
