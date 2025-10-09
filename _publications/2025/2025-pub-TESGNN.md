@@ -3,7 +3,7 @@ title:          "TESGNN: Temporal equivariant scene graph neural networks for ef
 date:           2025-10-09 00:01:00 +0800
 selected:       true
 # pub:            "European Conference on Computer Vision (ECCV)"
-pub_pre:        "Transactions on Machine Learning (TMLR)"
+pub:        "Transactions on Machine Learning (TMLR)"
 abstract: >-
   An improve of ESGNN with temporal layer making the generated graph can evolute over times.
 cover:          /assets/images/covers/TESGNN.jpg
